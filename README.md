@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/gouravghosh24
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Firefox Logo isn't a fox
-- 💼 Currently working as an Associate @ BRITISH TELECOM
-- 👨🏻‍🎓 BCA Graduate 
+
 -->
