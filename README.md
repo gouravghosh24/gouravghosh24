@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Website Designing and development ideas and techniques to be able to make some growth in my career
 - 💬 Ask me about anything Related to web technology
 - 📫 How to reach me @ Linkedin https://www.linkedin.com/in/gouravghosh24
+- 💼 Currently working as an Associate @ BRITISH TELECOM
+- 👨🏻‍🎓 BCA Graduate 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Firefox Logo isn't a fox
+
 
 -->
