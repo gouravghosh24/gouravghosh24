@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Website development ideas and techniques to expand more
 - 💬 Ask me about anything Related to web technology
 - 📫 How to reach me @ Linkedin https://www.linkedin.com/in/gouravghosh24
-- 💼 Currently working as an Associate @ BRITISH TELECOM
+- 💼 Currently working as an Associate @ Self Taught Programmer
 - 👨🏻‍🎓 BCA Graduate 
 
 - 😄 Pronouns: ...
