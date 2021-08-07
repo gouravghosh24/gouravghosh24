@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently Developing myself in the Tech field
+- 🔭 I’m currently Developing my skills in the Tech field
 - 🌱 I’m currently learning MERN STACK
 - 👯 I’m looking to collaborate on Javascript Challenges
 - 🤔 I’m looking for help with Website development ideas and techniques to expand more
