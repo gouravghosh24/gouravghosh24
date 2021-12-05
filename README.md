@@ -1,4 +1,4 @@
-![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/git%20pro%20(2).png) 
+![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/GitHub.png) 
 | __Name__ |Gourav Ghosh|
 |---------------|------------------------|
 | __Eductaion__ | __BCA Graduate__ |
