@@ -1,4 +1,16 @@
 ![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/GitHub.png) 
+
+```
+function Hey(){
+    const iam={
+        name:"Gourav Ghosh",
+        role:"Frontend Developer"
+    }
+    console.log(iam.name)
+    console.log(iam.role)
+}
+Hey()
+```
 | __Name__ |Gourav Ghosh|
 |---------------|------------------------|
 | __Eductaion__ | __BCA Graduate__ |
