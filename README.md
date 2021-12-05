@@ -9,7 +9,7 @@
 | 🔭 __I’m currently Developing my skills in__ | __Full Stack Development__|
 | 🌱 __I’m currently learning__ | __MERN STACK__ |
 | 👯 __I’m looking to collaborate on__ | __Javascript Challenges__|
-| 🤔 __I’m looking for help with__ | __Backend Website development Mongoose & Express__ |
+| 🤔 __I’m looking for help with__ | __Mongoose & Express__ |
 | 💬 __Ask me about anything Related to__ | __Web Technology__ |
 | 💼 __Currently__ |__I am Focused Learner__ |
 
