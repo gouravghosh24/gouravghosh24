@@ -17,7 +17,7 @@ function Hey(){
 | __Linkedin__ | https://www.linkedin.com/in/gouravghosh24 |
 | __Repositries__| https://gouravghosh24.github.io/JS_Practice-Projects/ |
 | __Resume__ | https://gouravghosh24.github.io/Resume/ |
-|__Phone:__ | +91 70038 17857 |
+|__Nationality:__ | __INDIAN (IND)__ |
 | 🔭 __I’m currently Developing my skills in__ | __Full Stack Development__|
 | 🌱 __I’m currently learning__ | __MERN STACK__ |
 | 👯 __I’m looking to collaborate on__ | __Javascript Challenges__|
