@@ -12,18 +12,20 @@
 | 🤔 __I’m looking for help with__ | __Backend Website development Mongoose & Express__ |
 | 💬 __Ask me about anything Related to__ | __Web Technology__ |
 | 💼 __Currently__ |__I am Focused Learner__ |
- 
+
+______________________________________________________________________________________________________________________
+| __Stack I currently Use:__ | __MERN__|
+|----------------------------|---------|
+| __HTML__|Markup Language|
+| __CSS__ |Cascading Style Sheet|
+|__BootStrap__ |Css FrameWork|
+|__Javascript__ |__NodeJs__|
+|                 |__NPM__ (Node Package Managers)|
+|                |__REACTJS__|
+|__Currently Learning__|__MongoDB__(DataBase)|
+
+________________________________________________________________________________________________________________________
+
 
 - 😄 __Pronouns:__ ...
 - ⚡ Fun fact: Firefox Logo isn't a fox
-
-## Stack I currently Use:
-* __HTML__
-* __CSS__
-* __BootStrap__
-* __Javascript__
-  * __NodeJs__
-    * __NPM__ (Node Package Managers)
-  * __REACTJS__
-* *__Learning__*
-  * __MongoDB__(DataBase)
