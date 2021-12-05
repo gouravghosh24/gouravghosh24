@@ -9,11 +9,10 @@ function Hey(){
     console.log(iam.name)
     console.log(iam.role)
 }
-Hey()
+
 ```
-| __Name__ |Gourav Ghosh|
+| __Eductaion__ |__BCA Graduate__ |
 |---------------|------------------------|
-| __Eductaion__ | __BCA Graduate__ |
 | __Email:__ | gouravghosh6@gmail.com|
 | __Linkedin__ | https://www.linkedin.com/in/gouravghosh24 |
 | __Resume__ | https://gouravghosh24.github.io/Resume/ |
