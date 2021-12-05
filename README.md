@@ -1,6 +1,6 @@
-# Hola 
+# Hi
 ## I am Gourav Ghosh 👋
-
+> Self taught software engineer
 
 
 - 🔭 I’m currently Developing my skills in the Tech field
