@@ -1,5 +1,8 @@
+> # Hi
+> ## I am __Gourav__
+> __A Self taught software engineer__
 
-> Self taught software engineer
+> *__A Website Developer__* Very much interested in learning new tools & tricks which can enhance the way the web looks
 
 
 - 🔭 I’m currently Developing my skills in the Tech field
@@ -15,3 +18,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Firefox Logo isn't a fox
 
+## Stack I currently Use:
+* __HTML__
+* __CSS__
+* __BootStrap__
+* __Javascript__
+  * __NodeJs__
+    * __NPM__ (Node Package Managers)
+  * __REACTJS__
+* *__Learning__*
+  * __MongoDB__(DataBase)
