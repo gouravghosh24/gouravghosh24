@@ -1,4 +1,4 @@
-![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/Git_Pro.png)
+![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/git%20pro.png)
 > # Hi
 > ## I am __Gourav__
 > __A Self taught software engineer__
