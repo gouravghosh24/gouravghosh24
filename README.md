@@ -1,4 +1,4 @@
-# Hi ## I am Gourav Ghosh 👋
+#Hi ##I am Gourav Ghosh 👋
 ----------------------------------------------------------------------------
 > Self taught software engineer
 
