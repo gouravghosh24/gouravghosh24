@@ -1,6 +1,6 @@
 ![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/GitHub.png) 
 
-```
+```javascript
 function Hey(){
     const iam={
         name:"Gourav Ghosh",
@@ -26,15 +26,12 @@ function Hey(){
 | 💼 __Currently__ |__I am Focused Learner__ |
 
 ______________________________________________________________________________________________________________________
-| __Stack I currently Use:__ | __MERN__|
-|----------------------------|---------|
-| __HTML__|Markup Language|
-| __CSS__ |Cascading Style Sheet|
-|__BootStrap__ |Css FrameWork|
-|__Javascript__ |__NodeJs__|
-|                 |__NPM__ (Node Package Managers)|
-|                |__REACTJS__|
-|__Currently Learning__|__MongoDB__(DataBase)|
+| __Language & Framework I Use__ |         |                  
+|----------------------------|--------|                     
+|                            |__HTML__|                      
+|                            | __CSS__|
+|                            |__BootStrap__|
+|                            |__Javascript__|
 
 ________________________________________________________________________________________________________________________
 
