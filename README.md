@@ -14,8 +14,8 @@ function Hey(){
 | __Eductaion__ |__BCA Graduate__ |
 |---------------|------------------------|
 | __Email:__ | gouravghosh6@gmail.com|
-| __Linkedin__ | <button onclick="window.location.href='https://www.linkedin.com/in/gouravghosh24';">VISIT</button> |
-| __Repositries__| <button onclick="window.location.href='https://gouravghosh24.github.io/JS_Practice-Projects/';">Visit</button>  |
+| __Linkedin__ | https://www.linkedin.com/in/gouravghosh24 |
+| __Repositries__| https://gouravghosh24.github.io/JS_Practice-Projects/' |
 | __Resume__ | https://gouravghosh24.github.io/Resume/ |
 |__Nationality:__ | __INDIAN (IND)__ |
 | 🔭 __I’m currently Developing my skills in__ | __Full Stack Development__|
@@ -24,7 +24,6 @@ function Hey(){
 | 🤔 __I’m looking for help with__ | __MongoDB NodeJs & Express__ |
 | 💬 __Ask me about anything Related to__ | __Web Technology__ |
 | 💼 __Currently__ |__I am Focused Learner__ |
-
 
 
 ```javascript
