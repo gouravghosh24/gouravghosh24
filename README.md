@@ -14,7 +14,7 @@ function Hey(){
 
 | __Eductaion__ |__BCA Graduate__ |
 |---------------|------------------------|
-| __Email:__ | gouravghosh6@gmail.com|
+| __Email:__ | [Write Me](gouravghosh6@gmail.com)|
 | __Linkedin__ | [Visit](https://www.linkedin.com/in/gouravghosh24) |
 | __Repositries__| [Check Now](https://gouravghosh24.github.io/JS_Practice-Projects/) |
 | __Resume__ | [Download](https://gouravghosh24.github.io/Resume/) |
