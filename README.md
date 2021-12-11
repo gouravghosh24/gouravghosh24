@@ -14,8 +14,8 @@ function Hey(){
 | __Eductaion__ |__BCA Graduate__ |
 |---------------|------------------------|
 | __Email:__ | gouravghosh6@gmail.com|
-| __Linkedin__ | https://www.linkedin.com/in/gouravghosh24 |
-| __Repositries__| https://gouravghosh24.github.io/JS_Practice-Projects/ |
+| __Linkedin__ | <button onclick="window.location.href='https://www.linkedin.com/in/gouravghosh24';">VISIT</button> |
+| __Repositries__| <button onclick="window.location.href='https://gouravghosh24.github.io/JS_Practice-Projects/';">Visit</button>  |
 | __Resume__ | https://gouravghosh24.github.io/Resume/ |
 |__Nationality:__ | __INDIAN (IND)__ |
 | 🔭 __I’m currently Developing my skills in__ | __Full Stack Development__|
@@ -24,17 +24,20 @@ function Hey(){
 | 🤔 __I’m looking for help with__ | __MongoDB NodeJs & Express__ |
 | 💬 __Ask me about anything Related to__ | __Web Technology__ |
 | 💼 __Currently__ |__I am Focused Learner__ |
-[button url="http://www.google.com"]
+
+
+
+```javascript
+const MyStack={
+    Markup:"HTML",
+    Cascade:"CSS",
+    CssLibrary:"Bootstrap",
+    FrontendLang:"Javascript",
+    FrontendLibary:"React"
+    }
+```
 
 ______________________________________________________________________________________________________________________
-| __Language & Framework I Use__ |         |                  
-|----------------------------|--------|                     
-|                            |__HTML__|                      
-|                            | __CSS__|
-|                            |__BootStrap__|
-|                            |__Javascript__|
-
-________________________________________________________________________________________________________________________
 
 
 - 😄 __Pronouns:__ ...
