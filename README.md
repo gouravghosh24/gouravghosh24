@@ -11,12 +11,13 @@ function Hey(){
 }
 
 ```
+
 | __Eductaion__ |__BCA Graduate__ |
 |---------------|------------------------|
 | __Email:__ | gouravghosh6@gmail.com|
-| __Linkedin__ | https://www.linkedin.com/in/gouravghosh24 |
-| __Repositries__| https://gouravghosh24.github.io/JS_Practice-Projects/' |
-| __Resume__ | https://gouravghosh24.github.io/Resume/ |
+| __Linkedin__ | [Visit](https://www.linkedin.com/in/gouravghosh24) |
+| __Repositries__| [Check Now](https://gouravghosh24.github.io/JS_Practice-Projects/) |
+| __Resume__ | [Download](https://gouravghosh24.github.io/Resume/) |
 |__Nationality:__ | __INDIAN (IND)__ |
 | 🔭 __I’m currently Developing my skills in__ | __Full Stack Development__|
 | 🌱 __I’m currently learning__ | __MERN STACK__ |
