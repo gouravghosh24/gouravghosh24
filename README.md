@@ -1,7 +1,7 @@
 ![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/GitHub.png) 
 
 ```javascript
-function Hey(){
+function aboutMe(){
     const iam={
         name:"Gourav Ghosh",
         role:"Frontend Developer"
