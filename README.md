@@ -1,13 +1,13 @@
 ![Markdown Logo](https://github.com/gouravghosh24/gouravghosh24/blob/main/Media/GitHub.png) 
 
-```javascript
-function aboutMe(){
+```C++
+void aboutMe(){
     const iam={
         name:"Gourav Ghosh",
-        role:"Frontend Developer"
+        role:"Learning to program using C++"
     }
-    console.log(iam.name)
-    console.log(iam.role)
+    cout << "iam.name";
+    cout << "iam.role";
 }
 
 ```
