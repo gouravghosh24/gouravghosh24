@@ -17,7 +17,7 @@ void aboutMe(){
 | __Email:__ | gouravghosh6@gmail.com|
 | __Linkedin__ | [Visit](https://www.linkedin.com/in/gouravghosh24) |
 | __Repositries__| [Check Now](https://gouravghosh24.github.io/JS_Practice-Projects/) |
-| __About Me__ | [Check this out][(https://gouravghosh24.github.io/DataStructuresProblems/)] |
+| __About Me__ | [Check this out]https://gouravghosh24.github.io/DataStructuresProblems/) |
 |__Nationality:__ | __INDIAN (IND)__ |
 | 🔭 __I’m currently Developing my skills in__ | __Competitive Programming__|
 | 🌱 __I’m currently learning__ | __Data Structures__ |
