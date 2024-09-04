@@ -19,21 +19,21 @@ void aboutMe(){
 | __Repositries__| [Check Now](https://gouravghosh24.github.io/JS_Practice-Projects/) |
 | __Resume__ | [Download](https://gouravghosh24.github.io/Resume/) |
 |__Nationality:__ | __INDIAN (IND)__ |
-| 🔭 __I’m currently Developing my skills in__ | __Full Stack Development__|
-| 🌱 __I’m currently learning__ | __MERN STACK__ |
-| 👯 __I’m looking to collaborate on__ | __Javascript Challenges__|
-| 🤔 __I’m looking for help with__ | __MongoDB NodeJs & Express__ |
-| 💬 __Ask me about anything Related to__ | __Web Technology__ |
+| 🔭 __I’m currently Developing my skills in__ | __Competitive Programming__|
+| 🌱 __I’m currently learning__ | __Data Structures__ |
+| 👯 __I’m looking to collaborate on__ | __How to optimmize Code base__|
+| 🤔 __I’m looking for help with__ | __Algorithamic Challenges__ |
+| 💬 __Ask me about anything Related to__ | __Arrays, Linked Lists, Queues, Stacks, Sorting&Searching, Pattern solving__ |
 | 💼 __Currently__ |__I am Focused Learner__ |
 
 
 ```javascript
 const MyStack={
+    Programming Language : C & C++
     Markup:"HTML",
     Cascade:"CSS",
     CssLibrary:"Bootstrap",
     FrontendLang:"Javascript",
-    FrontendLibary:"React"
     }
 ```
 
