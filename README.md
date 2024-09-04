@@ -30,9 +30,8 @@ void aboutMe(){
 ```javascript
 const MyStack={
     Programming Language : C & C++
-    Markup:"HTML",
-    Cascade:"CSS",
-    CssLibrary:"Bootstrap",
+    Markup:"HTML5",
+    Cascade:"css",
     FrontendLang:"Javascript",
     }
 ```
