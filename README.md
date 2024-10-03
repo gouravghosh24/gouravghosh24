@@ -19,7 +19,7 @@ void aboutMe(){
 | __Repositries__| [Check Now](https://gouravghosh24.github.io/JS_Practice-Projects/) |
 | __Explore My Latest Endeavor__ | [My Latest Activity](https://gouravghosh24.github.io/DataStructuresProblems/) |
 |__Nationality:__ | __INDIAN (IND)__ |
-| 🔭 __I’m currently Developing my skills in__ | __Competitive Programming__|
+| 🔭 __I’m currently Developing my skills in__ | __Building Strong Algorithms__|
 | 🌱 __I’m currently learning__ | __Data Structures__ |
 | 👯 __I’m looking to collaborate on__ | __How to optimmize Code base__|
 | 🤔 __I’m looking for help with__ | __Algorithamic Challenges__ |
